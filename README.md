@@ -3,7 +3,7 @@
 ## 🧠 Model Download
 Because the Random Forest model is 211 MB (exceeding GitHub's standard upload limit), 
 it is hosted in the **Releases** section of this repository.
-👉 **[Download nepal_thermal_model.pkl here]((https://github.com/himansuhamal99/nepal-thermal-ai/releases/download/v1.0.0/nepal_thermal_model.pkl))**
+👉 **[Download nepal_thermal_model.pkl here](https://github.com/himansuhamal99/nepal-thermal-ai/releases/download/v1.0.0/nepal_thermal_model.pkl)**
 
 *Please download this file and place it in the project folder to run the Streamlit app.*
 
